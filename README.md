@@ -9,6 +9,7 @@
 ### How this works?
 * Go to `your love2d game directory` -> `select all files` -> `compress to zip` -> change `.zip` to `.love`
 * Drag your `.love` to `root` of this project folder
+  
 ![{D3003E1D-AD99-4D53-B2D7-B402DDC87B51}](https://github.com/user-attachments/assets/2f34e9ec-52bf-432d-9e99-e57121261a9c)
 
 * execute `.bat` file
