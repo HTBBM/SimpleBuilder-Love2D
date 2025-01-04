@@ -8,6 +8,11 @@
 
 ### How this works?
 * Go to `your love2d game directory` -> `select all files` -> `compress to zip` -> change `.zip` to `.love`
+
+![{22F1E1E1-55A0-4105-9433-D3B025D94CF5}](https://github.com/user-attachments/assets/62504be1-7e3b-4bdf-9a0e-6374c3820b87)
+
+![{82F3FD7F-C72B-4DB6-8EE3-05A8856F0194}](https://github.com/user-attachments/assets/1cb19003-16f7-4728-8133-65e446bd90d7)
+
 * Drag your `.love` to `root` of this project folder
   
 ![{D3003E1D-AD99-4D53-B2D7-B402DDC87B51}](https://github.com/user-attachments/assets/2f34e9ec-52bf-432d-9e99-e57121261a9c)
