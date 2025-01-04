@@ -7,9 +7,11 @@
 * `Tar` working with your command prompt 
 
 ### How this works?
-* Go to `your love2d game directory` -> `select all files` -> `compress to zip` -> change `.zip` to `.love`
+* Go to `your love2d game directory` -> `select all files` -> `compress to zip`
 
 ![{22F1E1E1-55A0-4105-9433-D3B025D94CF5}](https://github.com/user-attachments/assets/62504be1-7e3b-4bdf-9a0e-6374c3820b87)
+
+* Change `.zip` to `.love`
 
 ![{82F3FD7F-C72B-4DB6-8EE3-05A8856F0194}](https://github.com/user-attachments/assets/1cb19003-16f7-4728-8133-65e446bd90d7)
 
